@@ -1,7 +1,5 @@
 # Marketing A/B Testing & Conversion Analytics
 
-## What is A/B Testing?
-
 A/B testing (also called split testing) is a controlled experiment where two versions of a campaign, page, or product feature are shown to different groups of users at the same time — a **Control** (the existing/baseline version) and a **Test** (the new variant). By comparing how each group performs on key metrics, and checking whether the difference is statistically significant, marketers can determine whether a change actually improves results or if the observed difference is just random variation.
 
 ## Overview
